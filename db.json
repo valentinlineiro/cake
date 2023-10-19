@@ -1,0 +1,14 @@
+{
+  "cakes": [
+    {
+      "id": "aa56b07c-36fa-460f-9825-2f7e6e4a40cd",
+      "title": "Chocolate cake",
+      "price": 9.99
+    },
+    {
+      "id": "2e66c8aa-2249-47a2-a3fc-2346e72cd785",
+      "title": "Strawberry cake",
+      "price": 11.99
+    },
+  ]
+}
